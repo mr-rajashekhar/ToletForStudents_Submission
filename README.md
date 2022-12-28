@@ -1,11 +1,11 @@
 # ToletForStudents_Submission
-<<<<<<< HEAD
 
-Instructions To Run The Code.
+Instructions
 
-1.
-=======
-Instructions To Run The Code.
+1. Git clone the repository
 
-1. 
->>>>>>> 874830cdf5661043044122131c1249bd81ae03c7
+2. Do npm install -Y command in the parent directory
+
+3. Make sure all the environment variables are set (For ex:ANDROID_HOME, etc.)
+
+4. Later run the command npx react-native run-android
